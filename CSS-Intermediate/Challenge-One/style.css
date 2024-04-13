@@ -1,0 +1,27 @@
+body {
+    background-color: #2762a5;
+}
+#wrap {
+   max-width: 800px;
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+    
+}
+#nav {
+    background-color: #a0bcd6;
+    width: 200px; 
+    margin-top: 0;   
+}
+h2 {
+    text-align: center;
+}
+#content {
+    background-color: #3c87ce;
+    width: 600px;
+    
+    text-align: center;
+}
+#content>ul {
+    list-style-type: none;
+}
