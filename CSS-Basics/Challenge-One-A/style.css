@@ -1,0 +1,29 @@
+body {
+    background-color: #cf9450;
+    }
+#wrap {
+    background-color: #f1d9b8;
+    width: 550px;
+    border: 3px dotted black;
+    margin: auto;
+    padding: 0px 10px;
+    text-align: center;
+    }
+h1 {
+    font-family:
+    font-weight: bold;
+    font-style: italic;
+    border-bottom: 3px dotted black;
+}
+p {
+    text-align: justify;
+}
+ul {
+   list-style: none;
+}
+li::first-letter {
+    font-size: 2em;
+}
+.copyright {
+    text-align: center;
+}
